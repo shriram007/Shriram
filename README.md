@@ -1,6 +1,6 @@
 <h1>Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="40"/> </h1>
 
-## Hi, I am Shriram
+## I am Shriram
 ## Web Developer
 <h3> Things I code with </h3>
 <p>
